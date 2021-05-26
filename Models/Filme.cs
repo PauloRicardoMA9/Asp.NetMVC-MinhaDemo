@@ -34,7 +34,7 @@ namespace MinhaDemo.Models
 
         [RegularExpression(@"^[0-5]*$", ErrorMessage = "Avaliação em formato inválido")]    // Apenas números de 0 a 5
         [Display(Name = "Avaliação")]
-        public string Avaliacao { get; set; }
+        public int Avaliacao { get; set; }
         
     }
 }

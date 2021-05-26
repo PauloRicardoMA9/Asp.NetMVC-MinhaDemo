@@ -25,13 +25,31 @@ namespace MinhaDemo.Controllers
         [Route("pagina-inicial/{id:int}/{categoria:guid}")]
         public IActionResult Index(string id, Guid categoria)
         {
-            return View();
+            var filme = new Filme
+            {
+                Titulo = "Star Wars",
+                DataLancamento = DateTime.Now,
+                Genero = "Ficção",
+                Avaliacao = 5,
+                Valor = 115,
+            };
+
+            return RedirectToAction("Privacy", filme);
         }
 
         [Route("privacidade")]
         [Route("politica-de-privacidade")]
-        public IActionResult Privacy()
+        public IActionResult Privacy(Filme filme)
         {
+            if (ModelState.IsValid)
+            {
+
+            }
+
+            foreach (var error in ModelState.Values.SelectMany(m => m.Errors))
+            {
+                Console.WriteLine(error.ErrorMessage);
+            }
         // Retornar um Json
             //return Json("{'nome':'Eduardo'}");
         // Retornar um arquivo para download
