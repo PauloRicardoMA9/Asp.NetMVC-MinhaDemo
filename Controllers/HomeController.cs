@@ -32,6 +32,13 @@ namespace MinhaDemo.Controllers
         [Route("politica-de-privacidade")]
         public IActionResult Privacy()
         {
+        // Retornar um Json
+            //return Json("{'nome':'Eduardo'}");
+        // Retornar um arquivo para download
+            //var fileBytes = System.IO.File.ReadAllBytes(@"F:\arquivo.txt");
+            //var fileName = "ola.txt";
+            //return File(fileBytes, System.Net.Mime.MediaTypeNames.Application.Octet, fileName);
+        // Retornar uma View
             return View();
         }
 
