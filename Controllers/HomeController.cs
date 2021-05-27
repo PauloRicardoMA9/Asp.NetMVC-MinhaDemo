@@ -34,7 +34,8 @@ namespace MinhaDemo.Controllers
                 Valor = 115,
             };
 
-            return RedirectToAction("Privacy", filme);
+            //return RedirectToAction("Privacy", filme);
+            return View();
         }
 
         [Route("privacidade")]

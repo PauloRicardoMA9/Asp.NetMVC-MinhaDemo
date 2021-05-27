@@ -8,7 +8,6 @@ C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\bin\Debug
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\bin\Debug\netcoreapp3.1\MinhaDemo.pdb
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\bin\Debug\netcoreapp3.1\MinhaDemo.Views.dll
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\bin\Debug\netcoreapp3.1\MinhaDemo.Views.pdb
-C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\MinhaDemo.csprojAssemblyReference.cache
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\MinhaDemo.AssemblyInfoInputs.cache
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\MinhaDemo.AssemblyInfo.cs
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\MinhaDemo.csproj.CoreCompileInputs.cache
@@ -35,3 +34,6 @@ C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\MinhaDemo.pdb
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\MinhaDemo.genruntimeconfig.cache
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\MinhaDemo.csproj.CopyComplete
+C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\MinhaDemo.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AvisoGeral.cshtml.g.cs
+C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Carrinho\Default.cshtml.g.cs
