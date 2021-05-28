@@ -37,3 +37,4 @@ C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\MinhaDemo.csproj.AssemblyReference.cache
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AvisoGeral.cshtml.g.cs
 C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Carrinho\Default.cshtml.g.cs
+C:\Users\paulo\Documents\Developer\Projetos\C#\EntendendoMVC\MinhaDemo\obj\Debug\netcoreapp3.1\Razor\Views\Filmes\Adicionar.cshtml.g.cs
